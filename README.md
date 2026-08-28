@@ -35,6 +35,8 @@ To develop a Python program to evaluate a cricket player's batting, bowling, fie
 
 ## source code 
 
-
+![Output](./1.1.png)
+![output](./1.2.png)
 
 ## output
+![output](./3.1.png)
